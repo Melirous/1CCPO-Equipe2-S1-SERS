@@ -1,4 +1,4 @@
-# ChargeGrid EcoCore
+# Proposta GreenVolt
 
 ## Integrantes
 ### João Victor Canello Ferian-rm573295
@@ -7,69 +7,75 @@
 
 ## Problema e Justificativa
 
-O crescimento da mobilidade elétrica vem aumentando significativamente a demanda energética dos eletropostos. Muitos sistemas atuais apresentam baixa eficiência energética, desperdício de energia e pouca integração com fontes renováveis.
-Além disso, o aumento do número de veículos elétricos pode gerar sobrecarga da rede elétrica em horários de pico, elevando custos operacionais e impactos ambientais.
-Diante desse cenário, torna-se necessário desenvolver soluções inteligentes capazes de otimizar o gerenciamento energético dos eletropostos utilizando fontes renováveis e sistemas computacionais eficientes.
-A parceria entre a GoodWe e a FIAP, através do Energy Innovation Lab, oferece uma infraestrutura moderna voltada para o desenvolvimento de soluções sustentáveis envolvendo energia solar, armazenamento energético e monitoramento inteligente.
-Nosso projeto busca aplicar os conceitos estudados ao longo do semestre para propor uma solução sustentável, tecnologicamente viável e alinhada ao futuro da mobilidade elétrica.
+Com o crescimento da mobilidade elétrica, os eletropostos passaram a exigir maior capacidade energética e processamento constante para monitoramento e gerenciamento do carregamento dos veículos.
+Muitos sistemas atuais apresentam:
+- alto consumo energético;
+- desperdício de energia;
+- processamento computacional ineficiente;
+- sobrecarga da rede elétrica;
+- baixa integração com energias renováveis.
+Além disso, sistemas computacionais pouco otimizados aumentam o consumo de hardware e reduzem a eficiência operacional dos eletropostos.
 
 ## Proposta de Solução
-O EcoCharge Grid propõe um sistema inteligente de gerenciamento energético para eletropostos de veículos elétricos.
-A solução utiliza energia solar, armazenamento energético e monitoramento inteligente para otimizar o consumo de energia e reduzir desperdícios.
-O sistema será integrado ao ecossistema GoodWe, utilizando:
-- inversores híbridos;
-- sistemas de armazenamento energético;
+
+A GreenVolt propõe um sistema inteligente de gerenciamento energético para eletropostos sustentáveis.
+A solução utiliza:
+- energia solar;
+- sistemas embarcados;
 - sensores IoT;
-- monitoramento em tempo real;
-- sistemas embarcados de baixo consumo energético.
+- arquitetura RISC-V;
+- programação em Assembly;
+- monitoramento inteligente.
 
 ### Principais funcionalidades
-- Monitoramento do consumo energético em tempo real;
-- Controle inteligente do carregamento dos veículos;
+
+- Monitoramento em tempo real;
+- Controle inteligente de carregamento;
 - Priorização do uso de energia solar;
-- Armazenamento de energia excedente em baterias;
-- Distribuição eficiente de energia;
+- Processamento otimizado;
 - Redução do desperdício energético;
-- Otimização do desempenho computacional.
+- Melhor eficiência operacional.
 
 ## Impactos Esperados
 
 ### Impactos Ambientais
 - Redução da emissão de CO₂;
-- Incentivo ao uso de energia limpa;
+- Incentivo ao uso de energia renovável;
 - Menor desperdício energético;
-- Maior aproveitamento da energia solar.
+- Maior eficiência energética.
 
 ### Impactos Tecnológicos
-- Gestão inteligente de eletropostos;
-- Maior eficiência computacional;
-- Integração entre energia e tecnologia;
-- Uso de sistemas embarcados eficientes.
+- Otimização computacional;
+- Maior eficiência de processamento;
+- Uso de sistemas embarcados eficientes;
+- Melhor gerenciamento energético.
 
 ### Impactos Sociais
 - Incentivo à mobilidade sustentável;
-- Apoio à transição energética;
-- Desenvolvimento de soluções inovadoras para cidades inteligentes.
+- Desenvolvimento de soluções inteligentes;
+- Apoio à transição energética.
 
 ## Tecnologias Utilizadas
 
-### Energias Renováveis
-- Painéis solares fotovoltaicos;
-- Sistemas BIPV;
-- Inversores híbridos GoodWe;
-- Sistemas de armazenamento energético.
-
-### Computação e Automação
+### Hardware
+- Painéis solares;
 - Sensores IoT;
 - Sistemas embarcados;
-- Arquitetura RISC-V;
+- Controladores RISC-V;
+- Inversores híbridos GoodWe.
+
+### Software
 - Programação em Assembly;
-- Computação em nuvem;
-- Monitoramento inteligente.
+- Monitoramento inteligente;
+- Sistemas de controle energético;
+- Processamento otimizado.
 
 ## Sustentabilidade e Energias Renováveis
 O projeto foi fundamentado nos princípios de sustentabilidade e eficiência energética estudados durante o semestre.
-A solução prioriza o uso de energia solar como fonte principal de alimentação dos eletropostos, reduzindo a dependência da rede elétrica convencional e diminuindo os impactos ambientais causados pela geração tradicional de energia.
-O armazenamento energético permite melhor aproveitamento da energia gerada pelos painéis solares, aumentando a eficiência do sistema e reduzindo desperdícios.
-Além disso, a utilização de arquiteturas computacionais eficientes, como RISC-V e programação em Assembly, contribui para diminuir o consumo energético dos sistemas embarcados responsáveis pelo monitoramento e gerenciamento do eletroposto.
-Dessa forma, o projeto integra sustentabilidade ambiental, eficiência computacional e inovação tecnológica em uma solução voltada ao futuro da mobilidade elétrica.
+A solução prioriza o uso de energia solar para alimentação dos eletropostos, reduzindo a dependência da rede elétrica convencional e diminuindo impactos ambientais.
+Além disso, o uso de arquitetura RISC-V e programação em Assembly permite:
+- menor consumo computacional;
+- maior eficiência energética;
+- redução do processamento desnecessário;
+- melhor aproveitamento dos recursos de hardware.
+Dessa forma, o GreenVolt integra energias renováveis e eficiência computacional para criar uma solução sustentável e tecnologicamente eficiente.
