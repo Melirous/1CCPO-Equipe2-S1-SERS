@@ -6,22 +6,26 @@
 ### João pedro costenari silva-rm572260
 
 ## Problema
-Os eletropostos possuem alto consumo energético e muitas vezes operam sem gerenciamento inteligente, causando desperdícios e sobrecarga elétrica.
+Gestão ineficiente de eletropostos e desperdício energético.
 
 ## Justificativa
-Com o crescimento da mobilidade elétrica, torna-se necessário criar soluções sustentáveis que integrem energia renovável, eficiência energética e monitoramento inteligente.
+Necessidade de soluções sustentáveis para mobilidade elétrica.
 
-## Proposta de Solução
-Desenvolvimento de um sistema inteligente de gestão energética para eletropostos utilizando o ecossistema GoodWe, sensores IoT e arquitetura computacional eficiente.
+## Proposta
+Sistema inteligente de gerenciamento energético utilizando o ecossistema GoodWe.
 
-## Tecnologias Utilizadas
-Energia solar
-Inversores GoodWe
-IoT
-Sistemas embarcados
-RISC-V
-Assembly
-Computação em nuvem
-Relação com Sustentabilidade
+## Tecnologias
+- Energia solar
+- IoT
+- RISC-V
+- Assembly
+- GoodWe
+- Sistemas embarcados
 
-A solução reduz desperdícios energéticos, prioriza o uso de fontes renováveis e melhora a eficiência computacional do sistema.
+## Sustentabilidade
+Uso de energia renovável e eficiência energética.
+
+## Impactos Esperados
+- Redução do desperdício
+- Menor emissão de CO₂
+- Melhor eficiência operacional
