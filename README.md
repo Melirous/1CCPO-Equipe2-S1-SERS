@@ -1,9 +1,10 @@
 # Proposta GreenVolt
 
 ## Integrantes
-### João Victor Canello Ferian-rm573295
-### Gustavo Melo dos Santos-rm573562
-### João pedro costenari silva-rm572260
+### João Victor Canello Ferian - rm573295
+### Gustavo Melo dos Santos - rm573562
+### João pedro costenari silva - rm572260
+### Julian Nayde Moncoski - rm572603
 
 ## Problema e Justificativa
 
